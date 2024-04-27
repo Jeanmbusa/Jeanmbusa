@@ -1,0 +1,255 @@
+#body1{
+	background:url("photos/arriere.jpeg");
+  background-repeat: no-repeat; 
+  background-position: top center;
+  opacity: 800;
+  background-size: 100% 500px;
+  color: darkorange;
+}
+#body1 h1 {
+  font-size: 60px;
+}
+#body1 h2 {
+  font-size: 30;
+}
+#body1 h3 {
+  font-size: 55;
+  color:white;
+  background-color: #0e267b;
+}
+#body1 h1 {
+  
+}
+#seach{
+  width: 500px;
+  height: 60px;
+  border-radius: 20px;
+}
+#box1{
+  width: 400px;
+  height: 60px;
+  border-radius: 60px;
+}
+#butonseach{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color:#4fda18;
+  color: white; 
+}
+#box1,#butonseach{
+  display: block-inline;
+}
+#menu{
+  padding-top: 10px;
+}
+#menu li{
+  display: inline;
+}
+#menu li a{
+  margin-left: -3px;
+  padding: 11px 20px;
+  color: white;
+  background-color: darkorange;
+  text-decoration: none;
+}
+#menu li a:hover{
+  background-color: #4fda18;
+}
+#corpsleft{
+  padding-top: 145px;
+  overflow:right;
+  color: #345dd6;
+}
+#corpscenter{
+   padding-top: 145px;
+}
+#corpsright{
+  
+}
+#corpsleft,#corpscenter,#corpsright{
+  display: inline-block;
+  padding-top: 145px;
+  color: #345dd6;
+}
+#footer1{
+  width: 100%;
+  backface-visibility: 5;
+  color: white;
+  background-color: #200d29;
+  margin-top: -45px;
+
+}
+#pfooter1{
+  font-family: microsoft phagspa;
+  font-size: 50px;
+}
+/*partie home*/
+#corps1{
+  margin-top: 170px;
+  color: black;
+
+}
+#a,#b{
+  display: inline-block;
+
+}
+#a{
+  width: 40%;
+  height: 450px;
+  color: black;
+  overflow: auto;
+}
+#b{
+width: 58%;
+height: 450px;
+overflow: auto;
+color: black;
+
+}
+/*partie publications*/
+#corps2{
+  margin-top: 170px;
+  color: black;
+
+}
+#corps3{
+  margin-top: 170px;
+  color: white;
+  
+}
+#harticle{
+  background-color:#02000c; 
+}
+#table_article{
+  color: black;
+}
+#corps4{
+  margin-top: 155px;
+  color: white;
+  background-color: #04030c;
+  
+}
+/*partie inscription*/
+#insci1,#insci2{
+  display: inline-block;
+}
+#insci1{
+  width: 60%;
+  height: 450px;
+  border-right: 0.1px solid;
+  border-color: #211f32;
+  overflow: auto;
+}
+#insci2{
+  width: 38%;
+  height: 450px;
+  background-color: #919198;
+  overflow: auto;
+}
+/*partie login*/
+#corps5{
+  margin-top: 160px;
+  color: white;
+  background-color: #220c26;
+  
+}
+#formlog input[type="text"],input[type="password"]{
+  width: 400px;
+  height: 40px;
+}
+#login{
+  width: 400px;
+  height: 40px;
+  background-color:#0b045b;
+  color: white; 
+}
+#btcompte{
+  width: 200px;
+  height: 40px;
+  background-color: #39dd5a;
+  color: white;
+}
+/*partie forum*/
+#corps6{
+  margin-top: 160px;
+  color: white;
+  background-color: #220c26;
+  
+}
+#forum1,#forum22{
+  display: inline-block; 
+}
+#forum1{
+  width: 30%;
+  height: 500px;
+  background-color:#77748c;
+  overflow: auto; 
+  color: black;
+}
+#forum22{
+  width: 68%;
+  height: 500px;
+  background-color:#79797a;  
+  color: black;
+}
+#tableforum{
+  width: 100%;
+  height: 350px;
+  overflow: auto;
+}
+
+/*partie hitorique*/
+#corps7{
+  margin-top: 160px;
+  color: white;
+  background-color: #220c26;
+  
+}
+#histor,#histor1{
+  display: inline-block; 
+}
+#histor{
+  width: 45%;
+  height: 400px;
+  background-color:#20061b;  
+  color: black;
+  overflow: auto;
+}
+#histor1{
+  width: 50%;
+  height: 400px;
+  background-color:#20061b;  
+  color: white;
+  overflow: auto;
+}
+/*partie administration*/
+#corps8{
+  margin-top: 160px;
+  color: white;
+  background-color: #1b0a18;
+  
+}
+#tableadmin{
+  width: 100%;
+
+}
+#tableadmin td {
+  border-right: 1px solid;
+  
+}
+/*partie article 2*/
+#corps10{
+  margin-top: 160px;
+  color: black;
+  background-color: white;
+  
+}
+/*derniere partie =home 2*/
+
+#corps11{
+  margin-top: 160px;
+  color: black;
+  background-color: white;
+  
+}

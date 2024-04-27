@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+ 	<meta charset ="utf-8">
+ 	<tittle> <!title>
+
+  <!head>
+  <body>
+  	<label> NOM<!label>
+  	<input type=" name" value="MBUSA" riquiest=riquiest placeder=plceder><!br>
+  	<label> POST NOM<!label>
+  	<intput type="name" value="KATSUVA" riquiest=risquiest palceder=placeder><!br>
+  	<label> PRENOM<!label>
+  	<input type="name" value=" JEAN" riquiest=riquiest placeder=placeder><!br>
+  	<label> E-MAIL<!label>
+  	<input type="adresse mail" value="###" riquiest=riquiest placeder=placeder><!br>
+  	
+  <!body>
+ <!html>
